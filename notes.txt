@@ -5,8 +5,4 @@ Learnings -
 1. Learned Git branch, Git Merge, Solving Merge Conflict and commit history behaviour.
 2. Learned PR workflow. main → create branch → work → PR → review → merge.
 3. Learned Rebase: How to rename commits. //Rebase rewrites the story, not the code.
-
-
-Commit 1 - Experiment for Squash.
-Commit 2 - Another Change for creating one more commit.
-Commit 3 - Creating One more commit.
+4. Learned Squash
