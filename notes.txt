@@ -2,4 +2,5 @@ This repo is for practicing Git commands.
 Breaking things is allowed.
 
 Learnings -
-1. Learned Git branch, Git Merge, Solving Merge Conflict, commit history behaviour.
+1. Learned Git branch, Git Merge, Solving Merge Conflict and commit history behaviour.
+2. Learned PR workflow. main → create branch → work → PR → review → merge
