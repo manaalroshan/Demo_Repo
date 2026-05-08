@@ -1,2 +1,5 @@
 This repo is for practicing Git commands.
 Breaking things is allowed.
+
+Learnings -
+1. Learned Git branch, Git Merge, Solving Merge Conflict, commit history behaviour.
