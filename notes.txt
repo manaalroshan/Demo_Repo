@@ -3,4 +3,5 @@ Breaking things is allowed.
 
 Learnings -
 1. Learned Git branch, Git Merge, Solving Merge Conflict and commit history behaviour.
-2. Learned PR workflow. main → create branch → work → PR → review → merge
+2. Learned PR workflow. main → create branch → work → PR → review → merge.
+3. Learned Rebase: How to rename commits. //Rebase rewrites the story, not the code.
